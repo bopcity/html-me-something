@@ -1,0 +1,22 @@
+html{
+    background-color: darkolivegreen
+}
+h1 {
+    font-family: cursive
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  div {
+    padding: 10px 10px 10px 10px;
+  }
+  #banner-img {
+    width: 100%;
+    height: auto;
+  }
+  .location {
+    text-emphasis: 10px;
+  }
